@@ -18,4 +18,7 @@
 
  REVISÃO
 
- 
+ ° Inspiração no React para criação de templates e declarativos e dinâmicos
+ ° Manipulação declarativa do DOM através de template 
+ ° Template dinâmico
+ ° Formatação de datas usando INTL
