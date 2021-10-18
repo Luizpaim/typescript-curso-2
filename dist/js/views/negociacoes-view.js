@@ -1,9 +1,5 @@
-import { Negociacoes } from "../models/negociacoes.js";
-export class NegociacoesView {
-    constructor(seletor) {
-        this.negociacoes = new Negociacoes();
-        this.elemento = document.querySelector(seletor);
-    }
+import { View } from "./view.js";
+export class NegociacoesView extends View {
     template(model) {
         return `
         <table class="table table-hover table-bordered">
@@ -23,10 +19,5 @@ ${model.lista().map(negociacao => {
         </tbody>
         </table>
         `;
-    }
-    update(model) {
-        const template = this.template(model);
-        console.log(template);
-        this.elemento.innerHTML = template;
     }
 }

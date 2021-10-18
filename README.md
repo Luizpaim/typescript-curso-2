@@ -22,3 +22,27 @@
  ° Manipulação declarativa do DOM através de template 
  ° Template dinâmico
  ° Formatação de datas usando INTL
+
+ 02 - Herança e reaproveitamento de código
+
+ 01- Projeto aula anterior 
+ 02- mensagen view
+ 03- Repetição de código
+ 04- Herança e pequena surpresa
+ 05- Utilizando Herança
+ 06- Modificador de acesso 
+ 07- mais surpresas com herança
+ 08- Avançando no uso de generics
+ 09- Dois tipos genéricos
+ 10- Classe abstrata
+ 11- Utilizando Herança
+ 12- Classe abstrata
+
+ REVISÃO
+
+ ° Herança com TypeScript
+ ° Classes com tipo genérico
+ ° Classes Abstratas
+ ° O modificador protected
+ 
+
