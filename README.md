@@ -68,3 +68,40 @@
 ° Validando negociações em dias úteis
 ° Vantagens do uso enums 
 ° Cuidados com enums 
+
+04 - Lapidando o nosso código
+
+01- projeto aula anterior
+02- Isolando a lógica de conversão de método
+03- Métodos estáticos
+04- Sobre métodos estáticos
+05- Projetando nosso Template
+06- Parâmetros nosso adicionais
+08- Revisão
+09- Fiz como ele fez
+10- Oque Aprendemos
+
+REVISÃO
+
+° Revisão da lógica de conversão negociações
+° Método estático
+° Parâmetros opcionais 
+
+
+05 - TSC e StrictNullChecks
+
+01-Projeto aula anterior
+02- Removendo comentários do código
+03- Mudança no tsconfig.json
+04- StrictNullChecks
+05- Sobre o StrictNullChecks
+06- Suprindo a checagem onde faz sentido
+07- tratando null em nosso código
+08- Últimos ajustes
+09- Revisão
+10- Fiz como ele fez
+11- Projeto final do curso
+12- oque aprendemos
+
+REVISÃO
+
