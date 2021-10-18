@@ -45,4 +45,26 @@
  ° Classes Abstratas
  ° O modificador protected
  
+ 03 - Visibilidade de métodos e Enumeration
 
+ 01- Projeto aula anterior
+ 02- Visibilidade do método template
+ 03- Métodos privados
+ 04- Centralizando updates em um único método
+ 05- Aceitando apenas dias úteis
+ 06- Sobre o objeto Date
+ 07- Organizando melhor o nosso código
+ 08- Enumerations
+ 09- Cuidados na declaração de enums
+ 10- Sobre o valor de enums
+ 11- Revisão
+ 12- Fiz como ele fez
+ 13- O que aprendemos
+
+
+ REVISÃO
+
+° Visibilidade de métodos
+° Validando negociações em dias úteis
+° Vantagens do uso enums 
+° Cuidados com enums 
