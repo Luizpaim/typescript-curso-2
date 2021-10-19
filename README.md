@@ -105,3 +105,8 @@ REVISÃO
 
 REVISÃO
 
+° Remoção de comentarios do código compilado
+° Ativação do strictNullChecks
+° Como suprir erros, quando fizer sentido, resultantes do strictNullChecks
+° benefícios do strictNullChecks no controle do fluxo da sua aplicação 
+

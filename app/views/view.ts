@@ -3,8 +3,12 @@
         protected elemento : HTMLElement;
         private escapar = false
         constructor(seletor : string, escapar? : boolean){
-
-        this.elemento = <HTMLInputElement>document.querySelector(seletor);
+                const elemento = document.querySelector(seletor);
+                if(elemento){
+        this.elemento = elemento as HTMLElement;
+        }else{
+                throw Error(`Seletor ${seletor} não existe no Dom `)
+        }
         if (escapar){
                 this.escapar = escapar;
         }
